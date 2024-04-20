@@ -1,5 +1,5 @@
 # Search Kana
-A search engine with semantic search, using Upstash(vector database) and Cohere AI
+[Search Kana](https://search-kana.vercel.app/), a search engine with semantic search, using Upstash(vector database) and Cohere AI
 
 ## Stack
 - [NextJS](https://nextjs.org/) - A flexible React framework that gives you building blocks to create fast, full-stack web applications
